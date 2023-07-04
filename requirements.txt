@@ -1,0 +1,2 @@
+# modules to download in streamlit
+snowflake-connector-python
